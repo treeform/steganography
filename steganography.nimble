@@ -10,4 +10,4 @@ srcDir       = "src"
 # Deps
 
 requires "nim >= 1.4.0"
-requires "pixie#head"
+requires "pixie >= 4.3.0"
