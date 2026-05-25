@@ -1,0 +1,3 @@
+nimTitle	steganography	steganography.html	module steganography		0
+nim	encodeMessage	steganography.html#encodeMessage,Image,string	proc encodeMessage(image: Image; data: string)		3
+nim	decodeMessage	steganography.html#decodeMessage,Image	proc decodeMessage(image: Image): string		23
